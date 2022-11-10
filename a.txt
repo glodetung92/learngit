@@ -5,3 +5,5 @@ add one line after commit 1
 add one line after commit 2
 
 add one line to commit in f1 branch (1)
+
+add one line to commit in f1 branch (2)
